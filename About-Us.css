@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.about-section {
+    background-image: url('images/background-3.jpg');
+    background-size: 80%;
+    background-color: white;
+    overflow: hidden;
+    padding: 100px 0;
+}
+
+.inner-container {
+    width: 46%;
+    float: right;
+    background-color: black;
+    opacity: 70%;
+    padding: 120px;
+}
+.inner-container h1 {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+    color: turquoise;
+}
+
+.text {
+    font-size: 13px;
+    color: turquoise;
+    line-height: 30px;
+    text-align: justify;
+}
