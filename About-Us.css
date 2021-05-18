@@ -14,30 +14,38 @@ body {
 }
 
 .about-section {
-    background-image: url('images/background-3.jpg');
-    background-size: 80%;
+    background-image: url('images/background-4.jpg');
+    background-size: 100%;
     background-color: white;
     overflow: hidden;
-    padding: 100px 0;
+    padding: 60px 0;
 }
 
 .inner-container {
     width: 46%;
     float: right;
     background-color: black;
-    opacity: 70%;
-    padding: 120px;
+    opacity: 80%;
+    padding: 100px;
 }
 .inner-container h1 {
     margin-bottom: 30px;
     font-size: 30px;
     font-weight: 900;
-    color: turquoise;
+    color: rgb(67, 233, 245);
 }
 
 .text {
-    font-size: 13px;
-    color: turquoise;
+    font-size: 15px;
+    color: rgb(67, 233, 245);
     line-height: 30px;
     text-align: justify;
+}
+
+button {
+    color: black;
+    background-color: rgb(67, 233, 245);
+    width: 17%;
+    height: 5%;
+    margin-top: 10%;
 }
