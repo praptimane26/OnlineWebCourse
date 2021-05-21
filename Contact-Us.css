@@ -72,7 +72,7 @@ h2:after{
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: turquoise;
+    background-color: rgb(67, 233, 245);
 
 }
 
@@ -105,7 +105,7 @@ h2:after{
     width: 100%;
     padding: 0.5rem 1rem;
     font-size: 1.1rem;
-    background-color: turquoise;
+    background-color:rgb(67, 233, 245);
     cursor: pointer;
     outline: none;
     border: none;
